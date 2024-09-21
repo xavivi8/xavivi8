@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavivi8" alt="xavivi8" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@javier_lunas" target="blank"><img src="https://img.shields.io/twitter/follow/@javier_lunas?logo=twitter&style=for-the-badge" alt="@javier_lunas" /></a> </p>
 
 - 🌱 I’m currently learning **Ionic, Spring**
 
